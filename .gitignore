@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+.virtual_documents
+.Rproj.user
+.RData
+.Rhistory
+*.zip

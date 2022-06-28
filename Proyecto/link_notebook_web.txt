@@ -1,0 +1,9 @@
+
+Integrantes:
+- Silva Velázquez Elsy Camila
+- Longines Tapia Hugo Didier
+- Andrés Urbano Guillermo Gerardo
+
+Link al notebook en la web:
+https://deepnote.com/project/Proyecto-de-pypcd-bIvTOxWZTsi5ddguME0yxg/%2Fproyecto_insuficiencia_cardiaca.ipynb
+

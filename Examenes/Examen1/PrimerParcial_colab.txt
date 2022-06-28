@@ -1,0 +1,9 @@
+Primer Examen parcial
+Integrantes
+- Silva Velázquez Elsy Camila
+- Longines Tapia Hugo Didier
+- Andrés Urbano Guillermo Gerardo
+
+Link de colab:
+
+https://colab.research.google.com/drive/1frxmRYuoFCx5S_JK7JiYmtkrXxdNgVC0?usp=sharing
