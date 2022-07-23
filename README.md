@@ -61,6 +61,7 @@ comportamiento.
 
 1. Jake VanderPlas, Python Data Science Handbook.[Liga](https://jakevdp.github.io/PythonDataScienceHandbook/index.html) 
 1. Sitio web .[Liga](http://dicyg.fi-c.unam.mx:8080/lalo)    
+1. Practical python [Liga](https://practical.learnpython.dev/)
 
 ## Ambientes de programación
 En este curso las herramientas de programación que se emplearán son las siguientes:
