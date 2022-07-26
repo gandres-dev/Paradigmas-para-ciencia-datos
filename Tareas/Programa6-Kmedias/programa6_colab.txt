@@ -1,0 +1,8 @@
+Programa 6
+Integrantes:
+- Silva Velázquez Elsy Camila
+- Longines Tapia Hugo Didier
+- Andrés Urbano Guillermo Gerardo
+
+Enlace colab:
+https://colab.research.google.com/drive/1U5BxQkvnpukepZSP1bSskAA0YhfTvMk8?usp=sharing

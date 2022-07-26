@@ -1,0 +1,8 @@
+
+Integrantes:
+- Elsy Camila Silva Velázquez
+- Guillermo Gerardo Andrés Urbano
+- Hugo Didier Longines Tapia
+
+Aqui esta el enlace a colab:
+https://colab.research.google.com/drive/1jE5JLSNORmS2rcrFI4Qy7KVr64HL-pnk?usp=sharing
