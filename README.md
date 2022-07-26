@@ -6,10 +6,22 @@ Conceptos básicos de reducción de datos, extracción de información y anális
 predictivo que permiten obtener conocimiento para predecir tendencias y patrones de
 comportamiento.
 
-<!--![distancias](img/distances.jpg)-->
-![algorithms](img/algorithms-ml.jpg)
 ---
+## Tareas
+- [Programa 1 - Cifrado1](https://nbviewer.org/github/gandres-dev/Paradigmas-para-ciencia-datos/tree/main/Tareas/Programa1-Cifrado1/Programa1_pypcd.ipynb)
+- [Programa 2 - Cifrado2](https://nbviewer.org/github/gandres-dev/Paradigmas-para-ciencia-datos/tree/main/Tareas/Programa2-Cifrado2/Programa2_pypcd.ipynb)
+- [Programa 3 - SBS-Covarianzas](https://nbviewer.org/github/gandres-dev/Paradigmas-para-ciencia-datos/tree/main/Tareas/Programa3-SBS-Covarianzas/Programa3_pypcd.ipynb)
+- [Programa 4 - RegresionLineal](https://nbviewer.org/github/gandres-dev/Paradigmas-para-ciencia-datos/tree/main/Tareas/Programa4-RegresionLineal/Programa4_pypcd.ipynb)
+- [Programa 5 - AgrupamientoJerarquico](https://nbviewer.org/github/gandres-dev/Paradigmas-para-ciencia-datos/tree/main/Tareas/Programa5-AgrupamientoJerarquico/Programa5_pypcd.ipynb)
+- [Programa 6 - K Medias](https://nbviewer.org/github/gandres-dev/Paradigmas-para-ciencia-datos/tree/main/Tareas/Programa6-Kmedias/Programa6_pypcd.ipynb)
+- [Programa 7 - K Vecinos](https://nbviewer.org/github/gandres-dev/Paradigmas-para-ciencia-datos/tree/main/Tareas/Programa7-Vecinos/Programa7.ipynb)
+- [Programa 8 - ClasificadorBayesiano](https://nbviewer.org/github/gandres-dev/Paradigmas-para-ciencia-datos/tree/main/Tareas/Programa8-ClasificadorBayesiano/Programa8.ipynb)
+- [Programa 9 - SeriesTiempo](https://nbviewer.org/github/gandres-dev/Paradigmas-para-ciencia-datos/tree/main/Tareas/Programa1-Cifrado1/Programa8_pypcd.ipynb)
 
+<!--![distancias](img/distances.jpg)-->
+<!-- ![algorithms](img/algorithms-ml.jpg) -->
+
+---
 ## Temario
 |Introducción a ciencia de datos|
 |---|
