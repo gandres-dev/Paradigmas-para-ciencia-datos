@@ -7,7 +7,7 @@ predictivo que permiten obtener conocimiento para predecir tendencias y patrones
 comportamiento.
 
 ---
-## Tareas
+## [Tareas](https://github.com/gandres-dev/Paradigmas-para-ciencia-datos/tree/main/Tareas)
 - [Programa 1 - Cifrado1](https://nbviewer.org/github/gandres-dev/Paradigmas-para-ciencia-datos/tree/main/Tareas/Programa1-Cifrado1/Programa1_pypcd.ipynb)
 - [Programa 2 - Cifrado2](https://nbviewer.org/github/gandres-dev/Paradigmas-para-ciencia-datos/tree/main/Tareas/Programa2-Cifrado2/Programa2_pypcd.ipynb)
 - [Programa 3 - SBS-Covarianzas](https://nbviewer.org/github/gandres-dev/Paradigmas-para-ciencia-datos/tree/main/Tareas/Programa3-SBS-Covarianzas/Programa3_pypcd.ipynb)
@@ -22,47 +22,10 @@ comportamiento.
 <!-- ![algorithms](img/algorithms-ml.jpg) -->
 
 ---
-## Temario
-|Introducción a ciencia de datos|
-|---|
-|Reducción de datos|
-|Mapeo de datos y construcción de diccionarios|
-|Algoritmos escalables y estadística asociativa|
-|Introducción Hadoop, MapReduce y procesos por lotes|
-|Extracción de grandes cantidades de información, uso de disco vs. uso de memoria|
-|Visualización|
-|Métodos de regresión lineal|
-|Análisis de agrupamiento     |
-|Análisis predictivo|
-|Funciones de predicción: k-vecinos|
-|Funciones de predicción: clasificador bayesiano multinomial|
+## [Proyecto (Detector para insuficiencia cardíaca)](https://nbviewer.org/github/gandres-dev/Paradigmas-para-ciencia-datos/tree/main/Proyecto/proyecto_insuficiencia_cardiaca.ipynb)
+La insuficiencia cardíaca es una enfermedad progresiva crónica en la que el músculo cardíaco no puede bombear suficiente sangre para satisfacer las necesidades de sangre y oxígeno del cuerpo.
 
-|Programación en lenguaje para ciencia de datos  Python|
-|---|
-|Tipos de datos y operadores básicos|
-|Operaciones con cadenas de caracteres|
-|Estructuras de control|
-|Listas, tuplas y diccionarios|
-|Arreglos multidimensionales|
-|Tablas|
-|Series de tiempo|
-|Archivos|
-|Funciones|
-|Clases|
-|Visualización de datos|
-|Bibliotecas estadísticas|
-
-|Programación en R o similar|
-|---|
-|Tipos de datos y operadores básicos|
-|Operaciones con cadenas de caracteres|
-|Estructuras de control|
-|Vectores, matrices, arreglos multidimensionales|
-|Factores, listas, tuplas y diccionarios|
-|Tablas|
-|Series de tiempo|
-|Archivos|
-|Funciones|
+![patrones](img/patrones.png)
 
 ---
 ## Profesor
